@@ -3,18 +3,6 @@
     color: #efd469;
 }
 
-.cover {
-    width: 100%;
-    padding: 2%;
-    padding-bottom: 1%;
-    height: 20px;
-}
-
-.logo {
-    max-width: 100px;
-    max-height: 100px;
-}
-
 .base {
     padding: 2%;
     padding-top: 2%;
@@ -25,11 +13,10 @@
     padding-left: 3%;
 }
 
-.height{
-    max-height: 332px;
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
+.size{
+    width: 100%;
+    max-height: 260px;
+
 }
 
 
