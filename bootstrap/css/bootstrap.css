@@ -664,8 +664,7 @@ address {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
-  background-image: url(bg.jpg);
-}
+  }
 @media (min-width: 768px) {
   .container {
     width: 750px;
